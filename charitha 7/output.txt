@@ -1,0 +1,5 @@
+----------------------------
+Candidate A Votes =   2
+Candidate B Votes =   2
+Candidate C Votes =   1
+----------------------------
